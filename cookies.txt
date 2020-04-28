@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+codiux-labs.com	TRUE	/wp-pulse1/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+codiux-labs.com	TRUE	/	FALSE	1999999999	wpSGCacheBypass	0
+

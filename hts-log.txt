@@ -1,0 +1,57 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 28 Apr 2020 14:52:27 at https://codiux-labs.com/wp-pulse1/?section=2 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://codiux-labs.com/wp-pulse1/?section=2 -O1 "C:\Users\91981\Documents\porfolio new" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:53:14	Error: 	"Method Not Allowed" (405) at link https://codiux-labs.com/wp-pulse1/xmlrpc.php (from https://codiux-labs.com/wp-pulse1/?section=2)
+14:53:21	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link demo.codiux.com/wp-pulse1/wp-content/uploads/2017/02/favicon.png (from https://codiux-labs.com/wp-pulse1/?section=2)
+14:53:24	Warning: 	Found for https://codiux-labs.com/wp-pulse1/wp-admin/
+14:53:24	Warning: 	File has moved from https://codiux-labs.com/wp-pulse1/wp-admin/ to https://codiux-labs.com/wp-pulse1/wp-login.php?redirect_to=https%3A%2F%2Fcodiux-labs.com%2Fwp-pulse1%2Fwp-admin%2F&reauth=1
+14:54:39	Error: 	"Not Found" (404) at link https://codiux-labs.com/wp-pulse1/.publication48 (from https://codiux-labs.com/wp-pulse1/?section=2)
+14:55:40	Error: 	"Not Found" (404) at link https://codiux-labs.com/wp-pulse1/.publication47 (from https://codiux-labs.com/wp-pulse1/?section=2)
+14:55:40	Error: 	"Not Found" (404) at link https://codiux-labs.com/wp-pulse1/.publication44 (from https://codiux-labs.com/wp-pulse1/?section=2)
+14:55:46	Error: 	"Not Found" (404) at link https://codiux-labs.com/wp-pulse1/.publication41 (from https://codiux-labs.com/wp-pulse1/?section=2)
+14:55:53	Error: 	"Not Found" (404) at link https://codiux-labs.com/wp-pulse1/.publication40 (from https://codiux-labs.com/wp-pulse1/?section=2)
+14:56:07	Error: 	"Not Found" (404) at link https://codiux-labs.com/wp-pulse1/.publication38 (from https://codiux-labs.com/wp-pulse1/?section=2)
+14:56:07	Error: 	"Not Found" (404) at link https://codiux-labs.com/wp-pulse1/.publication37 (from https://codiux-labs.com/wp-pulse1/?section=2)
+14:56:07	Error: 	"Not Found" (404) at link https://codiux-labs.com/wp-pulse1/.publication34 (from https://codiux-labs.com/wp-pulse1/?section=2)
+14:56:07	Error: 	"Not Found" (404) at link https://codiux-labs.com/wp-pulse1/.publication32 (from https://codiux-labs.com/wp-pulse1/?section=2)
+14:56:07	Error: 	"Not Found" (404) at link https://codiux-labs.com/wp-pulse1/.publication29 (from https://codiux-labs.com/wp-pulse1/?section=2)
+14:56:08	Error: 	"Not Found" (404) at link https://codiux-labs.com/wp-pulse1/.publication26 (from https://codiux-labs.com/wp-pulse1/?section=2)
+14:56:08	Error: 	"Not Found" (404) at link https://codiux-labs.com/wp-pulse1/.publication23 (from https://codiux-labs.com/wp-pulse1/?section=2)
+14:56:08	Error: 	"Not Found" (404) at link https://codiux-labs.com/wp-pulse1/.publication19 (from https://codiux-labs.com/wp-pulse1/?section=2)
+14:56:08	Error: 	"Not Found" (404) at link https://codiux-labs.com/wp-pulse1/.portfolio69 (from https://codiux-labs.com/wp-pulse1/?section=2)
+14:56:08	Error: 	"Not Found" (404) at link https://codiux-labs.com/wp-pulse1/.portfolio67 (from https://codiux-labs.com/wp-pulse1/?section=2)
+14:56:08	Error: 	"Not Found" (404) at link https://codiux-labs.com/wp-pulse1/.portfolio64 (from https://codiux-labs.com/wp-pulse1/?section=2)
+14:56:08	Error: 	"Not Found" (404) at link https://codiux-labs.com/wp-pulse1/.portfolio63 (from https://codiux-labs.com/wp-pulse1/?section=2)
+14:56:08	Error: 	"Not Found" (404) at link https://codiux-labs.com/wp-pulse1/.portfolio62 (from https://codiux-labs.com/wp-pulse1/?section=2)
+14:56:08	Error: 	"Not Found" (404) at link https://codiux-labs.com/wp-pulse1/.portfolio61 (from https://codiux-labs.com/wp-pulse1/?section=2)
+14:56:08	Error: 	"Not Found" (404) at link https://codiux-labs.com/wp-pulse1/wp-content/themes/pulse/fonts/glyphicons-halflings-regular.eot (from https://codiux-labs.com/wp-pulse1/wp-content/themes/pulse/css/bootstrap.min.css?ver=5.2.5)
+14:56:08	Error: 	"Not Found" (404) at link https://codiux-labs.com/wp-pulse1/wp-content/themes/pulse/fonts/glyphicons-halflings-regular.eot? (from https://codiux-labs.com/wp-pulse1/wp-content/themes/pulse/css/bootstrap.min.css?ver=5.2.5)
+14:56:08	Error: 	"Not Found" (404) at link https://codiux-labs.com/wp-pulse1/wp-content/themes/pulse/fonts/glyphicons-halflings-regular.woff (from https://codiux-labs.com/wp-pulse1/wp-content/themes/pulse/css/bootstrap.min.css?ver=5.2.5)
+14:56:08	Error: 	"Not Found" (404) at link https://codiux-labs.com/wp-pulse1/wp-content/themes/pulse/fonts/glyphicons-halflings-regular.ttf (from https://codiux-labs.com/wp-pulse1/wp-content/themes/pulse/css/bootstrap.min.css?ver=5.2.5)
+14:56:08	Error: 	"Not Found" (404) at link https://codiux-labs.com/wp-pulse1/wp-content/themes/pulse/fonts/glyphicons-halflings-regular.svg (from https://codiux-labs.com/wp-pulse1/wp-content/themes/pulse/css/bootstrap.min.css?ver=5.2.5)
+14:56:08	Warning: 	File not parsed, looks like binary: https://codiux-labs.com/wp-pulse1/wp-content/themes/pulse/fonts/fontawesome-webfont.woff2?v=4.4.0
+14:56:08	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link demo.codiux.com/wp-pulse1/wp-content/uploads/2017/02/favicon.png (from https://codiux-labs.com/wp-pulse1/?section=2)
+14:56:46	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link demo.codiux.com/wp-pulse1/wp-content/uploads/2017/02/favicon.png (from https://codiux-labs.com/wp-pulse1/?section=2)
+14:56:46	Warning: 	Moved Permanently for https://codiux-labs.com/wp-pulse1/?p=109
+14:56:46	Warning: 	File has moved from https://codiux-labs.com/wp-pulse1/?p=109 to https://codiux-labs.com/wp-pulse1/2017/02/12/sample-image-post-sticky-post/
+14:57:52	Warning: 	Moved Permanently for https://codiux-labs.com/wp-pulse1/?p=107
+14:57:52	Warning: 	File has moved from https://codiux-labs.com/wp-pulse1/?p=107 to https://codiux-labs.com/wp-pulse1/2017/02/12/sample-video-post/
+14:57:53	Warning: 	Moved Permanently for https://codiux-labs.com/wp-pulse1/?p=105
+14:57:53	Warning: 	File has moved from https://codiux-labs.com/wp-pulse1/?p=105 to https://codiux-labs.com/wp-pulse1/2017/02/12/sample-audio-post/
+14:57:53	Warning: 	Moved Permanently for https://codiux-labs.com/wp-pulse1/?p=102
+14:57:53	Warning: 	File has moved from https://codiux-labs.com/wp-pulse1/?p=102 to https://codiux-labs.com/wp-pulse1/2017/02/12/sample-image-post-2/
+14:57:56	Warning: 	Moved Permanently for https://codiux-labs.com/wp-pulse1/?p=100
+14:57:56	Warning: 	File has moved from https://codiux-labs.com/wp-pulse1/?p=100 to https://codiux-labs.com/wp-pulse1/2017/02/12/sample-text-post-2/
+14:57:59	Error: 	"Not Found" (404) at link https://codiux-labs.com/wp-pulse1/wp-admin/&reauth=1 (from https://codiux-labs.com/wp-pulse1/wp-login.php?redirect_to=https%3A%2F%2Fcodiux-labs.com%2Fwp-pulse1%2Fwp-admin%2F%26reauth=1)
+14:57:59	Warning: 	Moved Permanently for https://codiux-labs.com/wp-pulse1/?p=98
+14:57:59	Warning: 	File has moved from https://codiux-labs.com/wp-pulse1/?p=98 to https://codiux-labs.com/wp-pulse1/2017/02/12/sample-image-post/
+14:57:59	Warning: 	Moved Permanently for https://codiux-labs.com/wp-pulse1/?p=96
+14:57:59	Warning: 	File has moved from https://codiux-labs.com/wp-pulse1/?p=96 to https://codiux-labs.com/wp-pulse1/2017/02/12/sample-text-post/
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 32 seconds : 184 links scanned, 146 files written (6593734 bytes overall) [4047404 bytes received at 12190 bytes/sec], 4362459 bytes transferred using HTTP compression in 107 files, ratio 23%, 6.9 requests per connection
+(27 errors, 19 warnings, 0 messages)
